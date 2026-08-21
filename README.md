@@ -16,7 +16,7 @@ CS @ UW • Interested in HCI, NLP, & CV
 
 <div align="center">
 
-###  About Me
+### About Me
 I enjoy building across research & industry. Currently working on a CV project exploring intelligent systems that support real-time availability
 
 Right now my interests are shifting toward:
