@@ -34,18 +34,18 @@ Right now my interests are shifting toward:
 <tr>
 <td valign="top" width="50%" align="center">
 
-### ⚒️ Currently Working On
-‣  **Smart Parking Availability App**  Computer Vision and real-time data visualizations for high-demand areas  
+###  Currently Working On
+‣  Smart Parking Availability App - Computer Vision and real-time data visualizations for high-demand areas  
 
-‣  **Budget Buddy**  Gamified personal finance budgeting
+‣  Budget Buddy - Gamified personal finance budgeting
 
-‣  **Exploring research directions**
+‣  Exploring research directions
 
 </td>
 
 <td valign="top" width="50%" align="center">
 
-### 🌱 Research Interests
+###  Research Interests
 ‣  Human-Computer Interaction  
 ‣  Ubiquitous Computing & Sensing  
 ‣  Applied ML / NLP  
